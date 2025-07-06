@@ -2,6 +2,8 @@
 
 This repository contains a Bash script and GitHub Actions workflow.  
 
+![run-script](https://github.com/RomanKoronovskyi/devops-test-task-Roman_Koronovskyi/actions/workflows/run-script.yml/badge.svg)
+
 ## Project description
 
 The hello.sh script prints message “Hello from Bash!” to the screen, output the current date and time, count the number of regular files only in the output/ directory and create a file in logs/ named log-YYYYMMDD_HHMMSS.txt containing the output of the above steps.
