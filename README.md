@@ -1,4 +1,4 @@
-# devops-test-task-Roman_Koronovskyi
+# Bash CI Demo
 
 This repository contains a Bash script and GitHub Actions workflow.  
 
