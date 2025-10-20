@@ -12,8 +12,8 @@ The GitHub Actions workflow runs the script automatically on pushes and pull req
 
 ### Instruction for running the script locally:
 
-1. git clone https://github.com/RomanKoronovskyi/devops-test-task-Roman_Koronovskyi.git
-2. cd devops-test-task-Roman_Koronovskyi/scripts
+1. git clone https://github.com/RomanKoronovskyi/bash-ci-demo.git
+2. cd bash-ci-demo/scripts
 3. chmod +x hello.sh
 4. ./hello.sh
 5. ./hello.sh custom-log-name (optional)
